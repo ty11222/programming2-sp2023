@@ -1,0 +1,7 @@
+print("hello world")
+name = input ("What is your name: ")
+print("How is your day going, " + name + "?")
+print("Now, lets do some simple math.")
+number_1 = int(input("Pick a number: "))
+number_2 = int(input("Pick another number: "))
+print("The sum of your numbers is: " + sum(number_1 + number_2) + "!")
