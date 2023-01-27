@@ -19,3 +19,5 @@ print("The sum of " + str(number) + " and " + str(num) + " is: " + str(total))
 
 for i in range(total):
 	print(i)
+
+print("This is so cool!")
