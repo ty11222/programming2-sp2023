@@ -1,0 +1,53 @@
+.odd {
+	background-color: lightpink;
+	font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.second {
+	color: blue;
+	font-size: 36px;
+}
+
+.third {
+	background-color: lightpink;
+	font-family: sans-serif;
+	font-size: 24px;
+}
+
+.fourth {
+	background-color: limegreen;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.fifth {
+	font-size:20px;
+	border-style: dotted;
+	border-width: medium;
+}
+
+.seven {
+	font-size: 40px;
+	font-family: "Amatic SC";
+	border-style: dotted;
+	border-color: red;
+	border-width: thick;
+}
+
+h1, h2, h3 {
+	color: pink;
+	background-color: black;
+}
+
+h2 {
+	background-color: honeydew;
+}
+
+h1 {
+	font-family: cursive;
+}
+
+
+
+
+
