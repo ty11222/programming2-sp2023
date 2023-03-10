@@ -1,13 +1,23 @@
-.div-style {
+.first {
+	background-color: black;
 	color: white;
-	font-size: 32px;
-	text-align: center;
-	background-color: red;
-	font-weight: bold;
-	margin-top: 25%;
 }
 
-#buttonc {
-	background-color: orange;
-	font-size: 18px;
+.second {
+	background-color: yellow;
+}
+
+.both {
+	font-size: 28px;
+	font-family: "Helvetica", "Times New Roman", sans-serif;
+}
+
+.box {
+	border-width: thin;
+	border-color: black;
+}
+
+.submit {
+	border-width: thin;
+	border-color: black;
 }
