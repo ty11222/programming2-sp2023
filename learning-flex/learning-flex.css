@@ -1,0 +1,28 @@
+body {
+  background-color: white;
+}
+
+.container {
+  display: flex;
+  flex-direction:row;
+  margin-right: 10px;
+  justify-content: center;
+  border: 2px solid black;
+  align-items: center;
+}
+
+.cat-image {
+  width: 200px;
+  margin: 10px;
+  align-content:;
+  border: 2px solid black;
+}
+
+.head {
+  border: 2px solid red;
+  background-color: lightpink;
+  align-content: center;
+  align-items: center;
+  color: red;
+  text-align: center;
+}
